@@ -1,0 +1,132 @@
+
+body {  
+    padding: 0%;
+    margin: 0%;
+    font-family: sans-serif;
+    background-color: #fbfbfc;
+}
+
+ /* Menu */
+
+.menu { 
+    background-color: #1d1d1f;
+    width: 100%;
+    height: 45px;
+    color: rgb(231, 227, 227);
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    font-size: 14px;
+    text-align: center;
+    position: fixed;
+    padding:0 0px;
+}
+
+ /* Itens */
+
+
+
+/* Links incorporados */
+
+a { 
+    color: rgb(219, 219, 219);
+    text-decoration: none;
+}
+/* Anotações do início */
+
+.anota {    
+    background-color: rgb(243, 241, 241);
+    width: 100%;
+    height: 40px;
+    font-size: 14px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center;
+    margin: auto;
+}
+
+.compra {   
+    color: #0066cc;
+}
+
+/* Exibição 1 */
+
+.pai1 {  
+
+ 
+    margin: auto;
+    padding-bottom: 10px;
+    
+}
+
+.titu1 {    
+    text-align: center;
+    font-size: 50px;
+}
+
+.sub1 {  
+    text-align: center;
+    font-size: 30px;
+}
+
+/* Exibição 2 */
+
+.pai2 {  
+
+    background-color: black;
+    padding-top: 20px;
+    margin: auto;
+    padding-bottom: 10px;
+
+    
+}
+
+.titu2 {    
+    text-align: center;
+    margin-top: 30px;
+    color: white;
+    font-size: 50px;
+}
+
+.sub2 {  
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+.extra1 {   
+
+    color: rgb(110, 109, 109);
+    text-align: center;
+    font-size: 20px
+
+}
+
+/* Exibição 3 */
+
+.pai3 {  
+
+    margin: auto;
+    margin-bottom: 0;
+
+}
+
+.titu3 {    
+    text-align: center;
+    color: rgb(3, 3, 3);
+    font-size: 50px;
+}
+
+.sub3 {  
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+
+}
+
+.extra2 {   
+    color: rgb(110, 109, 109);
+    text-align: center;
+    font-size: 20px;
+}
+
