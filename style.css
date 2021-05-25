@@ -9,7 +9,7 @@ body {
  /* Menu */
 
 .menu { 
-    background-color: #1d1d1f;
+    background-color: rgba(51, 51, 51,0.9);
     width: 100%;
     height: 45px;
     color: rgb(255, 255, 255);
@@ -17,6 +17,7 @@ body {
     margin: auto;
     position: fixed;
     justify-content: space-between;
+    backdrop-filter: blur(19px);
 
 }
 
@@ -180,4 +181,58 @@ a {
 .image {    
     height: 50%;
     width: 40%;
+}
+
+.coluna {   
+    margin-left: 20px;
+    
+}
+
+.sobresite {    
+    background-color: rgb(241, 241, 241);
+    width: 50%;
+    margin: auto;
+    margin-left: 400px;
+}
+
+.sobreiten {    
+    font-size: 13px;
+}
+
+.com2 { 
+    background-color: rgb(245, 245, 245);
+
+}
+.com3 { 
+    margin-left: 100px;
+    padding-top: 20px;
+    padding-right: 190px;
+    padding-left: 190px;
+    margin-right: 100px;
+    color: rgb(146, 140, 140);
+}
+
+hr {    
+    width: 1010px;
+}
+
+.icone {    
+    top: 0;
+    padding-top: 6px;
+    padding-bottom: 10px;
+    width: 30px;
+    color: black;
+}
+
+.bag {  
+    top: 0;
+    padding-top: 14px;
+    padding-bottom: 10px;
+    width: 30px; 
+}
+.sea {  
+    top: 0;
+    padding-top: 14px;
+    padding-bottom: 10px;
+    width: 30px; 
 }
